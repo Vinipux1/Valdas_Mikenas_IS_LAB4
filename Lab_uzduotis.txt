@@ -1,0 +1,14 @@
+Uzduotis 4:
+
+8 balai:
+Atpazinti ranka rasytus skaicius.
+
+
+
+Isbandyti atpazintuva su  RBFN ir 13 neuronu
+
+Sumazinti RBFN neuronus skaiciu iki 13 iki kokio nors pasirinkto skaiciaus ir patikrinkite kaip sekasi atpazinti jusu simbolius.
+
+
+2 balai:
+Papildoma uzduotis - pabandyti su feedforward net
